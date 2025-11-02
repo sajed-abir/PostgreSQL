@@ -101,7 +101,7 @@ The visualizaton:
 
 Here's the breakdown:
 - **SQL and Python are essential** : Almost all jobs require them, along with Tableau, Excel, or Pandas.
-- **Higher seniority → higher salary** : Directors/Associate Directors (~$255k) earn significantly more than mid-level Analysts (~$180k–$232k).
+- **Higher seniority → higher salary** : Directors/Associate Directors ($255k) earn significantly more than mid-level Analysts (~$180k–$232k).
 - **Cloud & Big Data matter for senior roles** : AWS, Azure, Databricks, and Snowflake appear mostly in higher-level positions.
 
 ### 3. In-Demand Skills for Data Analysts
