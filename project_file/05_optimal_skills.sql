@@ -40,7 +40,9 @@ WHERE demand_count > 20
 ORDER BY asal.avg_salary DESC,
     sdmd.demand_count DESC
 LIMIT 20;
---More Simplified
+/*
+More Simplified
+*/
 SELECT skills_dim.skill_id,
     skills_dim.skills,
     COUNT(skills_job_dim.job_id) AS demand_count,
