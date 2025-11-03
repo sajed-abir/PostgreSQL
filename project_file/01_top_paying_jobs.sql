@@ -19,3 +19,4 @@ WHERE --Change the job_title_short to specify your desired roles eg. Data Engine
     AND salary_year_avg IS NOT NULL
 ORDER BY salary_year_avg DESC
 LIMIT(10);
+
