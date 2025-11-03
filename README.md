@@ -243,4 +243,4 @@ Here's the breakdown:
 
 This project reinforced how data-driven analysis can uncover powerful insights about the job market. Understanding which skills drive both demand and salary potential is essential for professionals aiming to stay competitive. As the data landscape evolves, continuously learning and adapting to new tools will remain key to long-term success in the analytics field.
 
-Connect With Me : [Sajed Khan Abir](www.linkedin.com/in/sajed-khan-abir)
+Connect With Me: [Sajed Khan Abir](https://www.linkedin.com/in/sajed-khan-abir)
