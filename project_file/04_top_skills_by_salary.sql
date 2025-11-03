@@ -9,7 +9,7 @@ FROM job_postings_fact
     INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 WHERE
     /*here you putyour desired data roles and other filters like location, work from home etc*/
-    job_title_short = 'Data Scientist' AND
+    job_title_short = 'Data Analyst' AND
     salary_year_avg IS NOT NULL
 GROUP BY skills
 ORDER BY avg_salary DESC
