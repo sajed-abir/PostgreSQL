@@ -7,6 +7,7 @@ Dive into the job market for different data roles all over the world. This proje
 SQL queries? Check them out here: [project_file](/project_file/)
 
 **Note:** The dataset used in this project contains job postings and skill data up to 2023. Insights and trends reflect this timeframe and may have evolved since then.
+
 ## BACKGROUND
 
 Born from a drive to better understand the data analyst job market, this project aims to uncover the most valuable and in-demand skills, helping others efficiently identify optimal career opportunities.
@@ -230,7 +231,7 @@ Here's the breakdown:
 
 ## CONCLUSION
 
-###  Key Insights from the Analysis
+### Key Insights from the Analysis
 
 - **Top-Paying Roles:** Remote data analyst positions can reach salaries as high as $650,000, highlighting the vast potential in this career path.
 - **Critical Skill for High Earnings:** SQL consistently appears as the core requirement for top-paying jobs, reinforcing its importance in driving career advancement.
@@ -238,8 +239,6 @@ Here's the breakdown:
 - **High-Value Specialized Skills:** Niche technologies like SVN, Solidity, and Couchbase command premium salaries, showing that rare expertise yields greater rewards.
 - **Market-Optimized Skill Set:** Combining foundational tools like SQL and Python with emerging technologies positions analysts for maximum market value and career growth.
 
-###  Closing Thoughts
+### Closing Thoughts
 
 This project reinforced how data-driven analysis can uncover powerful insights about the job market. Understanding which skills drive both demand and salary potential is essential for professionals aiming to stay competitive. As the data landscape evolves, continuously learning and adapting to new tools will remain key to long-term success in the analytics field.
-
-
